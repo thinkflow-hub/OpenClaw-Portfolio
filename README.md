@@ -1,4 +1,4 @@
-# 🛡️ OpenClaw: The Hardened AI Swarm (2026 Edition)
+# <img src="logo.png" width="80" align="center"> ThinkFLOW HUB: The Hardened AI Swarm (2026 Edition)
 
 Welcome to the official public portfolio of **OpenClaw**, an autonomous engineering ecosystem engineered for mission-critical reliability, extreme speed, and security-first automation.
 
