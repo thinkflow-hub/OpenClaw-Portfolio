@@ -12,6 +12,7 @@ Unlike traditional AI implementations, OpenClaw is built on a foundation of **Ri
 - **Interoperability:** Native MCP (Model Context Protocol) integration for seamless tool-scaling.
 
 ## 📁 Public Artifacts & Verification
+- **[CASE STUDY: OpenClaw Swarm](CASE_STUDY_OPENCLAW.md):** How we achieved 1000-scenario reliability.
 - **[Audit Methodology](audit_reports/AUDIT_METHODOLOGY.md):** How we define and measure AI reliability in 2026.
 - **[Financial Infrastructure](FINANCIAL_INFRASTRUCTURE_2026.md):** Our crypto-native billing and payout rails (Base Network).
 - **[Strategic Roadmap](STRATEGIC_ALIGNMENT_2026.md):** The evolution towards autonomous freelance dominance.
